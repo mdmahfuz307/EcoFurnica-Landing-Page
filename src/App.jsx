@@ -1,10 +1,14 @@
-function App() {
+import { useState } from "react";
+import "./App.css";
 
-  return (
+function App() {
+  const [count, setCount] = useState(0);
+
+  return(
     <>
-    <div className="text-5xl text-red-500 text-center font-bold">Hello Nirob</div>
+      <h1>Hello</h1>
     </>
   )
 }
 
-export default App
+export default App;
