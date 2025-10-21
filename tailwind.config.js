@@ -8,7 +8,7 @@ export default {
   ],
   darkMode: "class",
   theme: {
-    extend: {
+    extend: { // extedning default tailwind color
       colors: {
         primary: "#E58411",
         secondary: "#1E1E1E",
