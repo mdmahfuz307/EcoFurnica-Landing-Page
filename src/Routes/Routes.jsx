@@ -1,3 +1,4 @@
+import React from "react";
 import { createBrowserRouter } from 'react-router-dom';
 import About from '../pages/About/About.jsx';
 import Contact from '../pages/Contact/Contact.jsx';
