@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from '../../components/Navbar.jsx';
 import { Outlet } from 'react-router';
 import Footer from '../../components/Footer.jsx';
-import Home from '../Home/Home';
+import Home from '../pages/Home';
 
 const Root = () => {
     return (
