@@ -42,6 +42,7 @@ This project demonstrates a sleek UI with smooth animations, optimized performan
   <img src="https://ik.imagekit.io/yqnbhdlo4/Img/agency.ai?updatedAt=1756187710084" alt="Agency.AI Landing Page Screenshot" width="1000"/>
 </p>  -->
 
+---
 
 ## 📂 Project Structure  
 ```bash
@@ -57,6 +58,7 @@ agency.ai-landing-page/
 ├── package.json
 ├── tailwind.config.js
 └── vite.config.js
+```
 
 ---
 
