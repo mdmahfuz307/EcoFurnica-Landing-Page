@@ -64,8 +64,8 @@ agency.ai-landing-page/
 
 1. **Clone the repository**  
    ```bash
-   git clone [https://github.com/mdmahfuz307/Agency.ai-Landing-Page.git]
-   cd Agency.ai-Landing-Page
+   git clone [https://github.com/mdmahfuz307/Furniture-Landing-Page.git]
+   cd Furniture-Landing-Page
 
 ## Install dependencies
 
