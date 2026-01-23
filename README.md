@@ -33,7 +33,7 @@ This project demonstrates a sleek UI with smooth animations, optimized performan
 
 ## 📸 Screenshot  
 
-*(Add a screenshot of your project UI here)*  
+
 <img src="/src/assets/Screenshot 2025-11-17 171429.png" alt="">
 <img src="src/assets/Screenshot 2025-11-17 171501.png" alt="">
 <img src="src/assets/Screenshot 2025-11-17 171533.png" alt="">
