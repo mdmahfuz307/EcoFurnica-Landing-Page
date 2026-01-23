@@ -31,11 +31,12 @@ This project demonstrates a sleek UI with smooth animations, optimized performan
 
 ---
 
-<!--
 ## 📸 Screenshot  
 
 *(Add a screenshot of your project UI here)*  
-
+<img src="/src/assets/Screenshot 2025-11-17 171429.png" alt="">
+<img src="src/assets/Screenshot 2025-11-17 171501.png" alt="">
+<img src="src/assets/Screenshot 2025-11-17 171533.png" alt="">
 
 <!-- <p align="center">
   <img src="https://ik.imagekit.io/yqnbhdlo4/Img/agency.ai?updatedAt=1756187710084" alt="Agency.AI Landing Page Screenshot" width="1000"/>
@@ -70,9 +71,3 @@ agency.ai-landing-page/
 
 npm install
 
-
-
-
-<img src="/src/assets/Screenshot 2025-11-17 171429.png" alt="">
-<img src="src/assets/Screenshot 2025-11-17 171501.png" alt="">
-<img src="src/assets/Screenshot 2025-11-17 171533.png" alt="">
