@@ -70,7 +70,7 @@ const Navbar = () => {
           {/* LOGO */}
 
           <Link to="/" className="font-bold">
-            Panto
+            EcoFurnica
           </Link>
 
           {/* Hamburger menu for mobile */}
