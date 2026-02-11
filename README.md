@@ -46,18 +46,44 @@ This project demonstrates a Sleek UI with Smooth Animations, Optimized Performan
 
 ## 📂 Project Structure  
 ```bash
-agency.ai-landing-page/
-├── public/ # Static assets (images, icons, fonts)
-├── src/
-│ ├── assets/ # Project assets (logo, images)
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Main sections/pages
-│ ├── App.jsx # Root component
-│ ├── main.jsx # Vite entry file
-│ └── index.css # Global styles (Tailwind imports)
-├── package.json
-├── tailwind.config.js
-└── vite.config.js
+EcoFurnica-Landing-Page/
+├── 📂 public/                    # Static assets served directly
+├── 📂 src/                       # Source code directory
+│   ├── 📂 Routes/               # Application routing configuration
+│   ├── 📂 assets/               # Images, fonts, and other static resources
+│   ├── 📂 components/           # Reusable React components
+│   │   ├── BasicToolTip.jsx
+│   │   ├── Button.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Rating.jsx
+│   │   └── TooltipButton.jsx
+│   ├── 📂 context/              # React Context providers
+│   │   ├── CartContext.jsx
+│   │   └── ThemeContext.jsx
+│   ├── 📂 pages/                # Page components
+│   │   ├── About
+│   │   ├── Contact
+│   │   ├── ErrorPage
+│   │   ├── Home
+│   │   ├── Root
+│   │   └── Shop
+│   ├── 📂 utility/              # Helper functions and utilities
+│   │   ├── getImgUrl.js
+│   │   ├── products.js
+│   │   └── reviews.js
+│   ├── App.css                  # Main application styles
+│   ├── App.jsx                  # Root application component
+│   ├── index.css                # Global styles
+│   └── main.jsx                 # Application entry point
+├── .gitignore                   # Git ignore configuration
+├── README.md                    # Project documentation
+├── eslint.config.js             # ESLint configuration
+├── index.html                   # HTML entry point
+├── package-lock.json            # Locked dependency versions
+├── package.json                 # Project dependencies and scripts
+├── tailwind.config.js           # Tailwind CSS configuration
+└── vite.config.js               # Vite build configuration
 ```
 
 ---
