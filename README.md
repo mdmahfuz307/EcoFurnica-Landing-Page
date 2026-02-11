@@ -92,8 +92,8 @@ EcoFurnica-Landing-Page/
 
 1. **Clone the repository**  
    ```bash
-   git clone [https://github.com/mdmahfuz307/Furniture-Landing-Page.git]
-   cd Furniture-Landing-Page
+   git clone [https://github.com/mdmahfuz307/EcoFurnica-Landing-Page.git]
+   cd EcoFurnica-Landing-Page
 
 ## Install dependencies
 
