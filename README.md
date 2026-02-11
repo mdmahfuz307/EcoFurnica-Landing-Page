@@ -1,11 +1,11 @@
-# ⚡ Furniture Landing Page
+# ⚡ EcoFurnica Landing Page
 
 
-A modern, animated, and responsive **AI Agency Landing Page** built with **React (Vite)**, **Tailwind CSS**, and **Framer Motion**.  
-This project demonstrates a sleek UI with smooth animations, optimized performance, and a developer-friendly setup.  
+A modern, Animated, and Responsive **Landing Page** Built with **React (Vite)**, **Tailwind CSS**, and **Framer Motion**.  
+This project demonstrates a Sleek UI with Smooth Animations, Optimized Performance, and a Developer-Friendly Setup.  
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://furniture-landing-pag.netlify.app/)  
-[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdmahfuz307/Furniture-Landing-Page)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](ecofurnica.netlify.app)  
+[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdmahfuz307/EcoFurnica-Landing-Page)
 
 ---
 
